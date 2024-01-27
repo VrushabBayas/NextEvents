@@ -3,7 +3,9 @@ node_modules/
 NextEvents.code-workspace
 # Ignore build output
 build/
-
+static/
+.next/
+.DS_Store
 # Ignore environment-specific files
 .env
 
