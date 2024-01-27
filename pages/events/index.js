@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function EventsList() {
-  return <div>EventsList</div>;
+export default function AllEventPage() {
+  return <div>All Events</div>;
 }
